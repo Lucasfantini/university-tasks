@@ -1,0 +1,3 @@
+INTEGRANTES: Lucas Fantini - 44653388, Candela Saracho - 43609039, Matteo Mariano - 44900378
+
+DESPRIPCION: Se pinta en la pantalla a Stitch, y al presionar "W" cambia a Angel
